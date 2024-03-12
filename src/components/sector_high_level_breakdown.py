@@ -10,12 +10,7 @@ load_dotenv()
 
 ######DISCORD STUFFF
 
-# load_dotenv()
-# TOKEN = os.getenv('DISCORD_TOKEN')
-# GUILD = os.getenv('DISCORD_GUILD')
 
-TOKEN = 'MTA3MTQzODI2Njk4Mjc0NDA3NA.GEWzSL.TNDkxPc6PZxX6hsiKZGlIxUzYk9v-tgSmNV-Rg'
-GUILD = "Saksham1212's server"
 
 cmc_api_key = os.getenv('CMC_API_KEY')
 
@@ -516,5 +511,4 @@ def sector_bot(message_content):
 
             print(combined_sector_df)
 
-            return combined_sector_df,cat_10,cat_20
-
+            return combined_sector_df
