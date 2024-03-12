@@ -2,7 +2,7 @@ Crypto Gangsta Bots -
 
 These bots are essentially discord bots that pull market information from various sources.
 
-What exactly are these bots? Please refer to the substack post here: 
+What exactly are these bots? Please refer to the substack post here: https://sakshamdiwan.substack.com/p/crypto-gangsta-bots-a-discord-based?r=b240b&utm_campaign=post&utm_medium=web&triedRedirect=true
 
 
 **INSTRUCTIONS**
