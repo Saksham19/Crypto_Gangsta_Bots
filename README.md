@@ -2,6 +2,9 @@ Crypto Gangsta Bots -
 
 These bots are essentially discord bots that pull market information from various sources.
 
+What exactly are these bots? Please refer to the substack post here: 
+
+
 **INSTRUCTIONS**
 
 1. Clone the repo
@@ -49,6 +52,5 @@ Commands for the Discord Bots:
 18. agg_wallet = 'AGG_WALLET'
 
 
-What exactly are these bots? Please refer to the substack post here: 
 
 
