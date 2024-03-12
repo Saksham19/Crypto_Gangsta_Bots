@@ -13,6 +13,7 @@ These bots are essentially discord bots that pull market information from variou
 Commands for the Discord Bots:
 
 Market_Update   =  'MARKET_STATS_1D' (can do 1/2/7/14/30 days)
+
 Vol_Update = 'VOL_STATS_3D' (can do 3/7/14/30 days)
 Stables = 'STABLE_STATS_1D' (can do 1D/7D/30D/TOTAL)
 Derivatives = 'FUNDING_STATS_1D' (can do 1/2/7/14/30 D)
