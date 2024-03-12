@@ -7,7 +7,7 @@ What exactly are these bots? Please refer to the substack post here:
 
 **INSTRUCTIONS**
 
-1. Clone the repo
+1. Clone the repo. The main script is under src -> main. The underlying component scripts are under src -> components
 2. Update the .env file with relevant API keys/tokens
 3. ??
 4. Profit?
